@@ -1,0 +1,14 @@
+.env
+venv/
+__pycache__/
+*.pyc
+.env
+backend/.env
+uploads/
+vector_db/
+reports/
+backend/uploads/
+backend/reports/
+backend/vector_db/
+
+*.pdf
