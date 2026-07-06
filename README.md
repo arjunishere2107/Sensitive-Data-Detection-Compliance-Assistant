@@ -1,6 +1,6 @@
 # 🛡 Sensitive Data Detection & Compliance Assistant
 
-## Overview
+##
 
 Sensitive Data Detection & Compliance Assistant is an AI-powered application that automatically detects confidential information inside uploaded documents, classifies the document's security risk, generates compliance reports, and allows users to interact with the document using Retrieval-Augmented Generation (RAG).
 
