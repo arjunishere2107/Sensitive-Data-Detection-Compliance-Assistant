@@ -154,7 +154,7 @@ PDF Report Generation
 
 ## Future Improvements
 
-
+- OCR Support
 - Multi-document RAG
 - Data Redaction
 - Docker Deployment
